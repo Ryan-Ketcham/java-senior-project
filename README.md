@@ -1,1 +1,4 @@
-# java-senior-project
+# High School Senior Project - 2D RPG
+This was submitted as my IB Higher Level Computer Science assessment my senior year in high school in 2015. I haven't made any updates to it since, other than putting it on GitHub.
+
+This game features a randomly generated world of a desired size, including enemies, experience/levelling, items, and combat. The objective of the game is to find a chest with a key, and take it to one of the gates at the top/bottom of the map to escape. Movement is WASD, spacebar is attack, and the item slots correspond to numpad 1-9. Enemies will seek you out and attack you and have a random chance to drop a health potion. Upon killing them you will gain XP and eventually level up, which grants additional damage to your attack as well as more health points. The game is over when you run out of health or reach the exit.
